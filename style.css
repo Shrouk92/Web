@@ -1,0 +1,19 @@
+h1{
+    color: brown;
+    font-size: 12px;
+    border: 2px black ;
+  }
+  p{
+    background-color: aqua;
+    color: chocolate;
+  }
+
+body{
+  height:100% ;
+  background-color: antiquewhite;
+}
+
+
+.IMG{
+  float: right;
+}
